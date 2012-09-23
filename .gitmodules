@@ -4,3 +4,6 @@
 [submodule "hw2"]
 	path = hw2
 	url = https://github.com/petertsoics169/hw2.git
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/saasbook/hw3_rottenpotatoes
